@@ -1,0 +1,2 @@
+# settingRider
+Настройки Rider JetBrains
